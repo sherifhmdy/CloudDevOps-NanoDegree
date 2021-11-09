@@ -22,6 +22,7 @@
 6. I've create two public subnets only for the sake of loadbalancers BUT for budget wise I've created only one
     NAT Gateway as this project is for testing purpose and no need to have multiple NAT Gateway   
 
+7. I've exported the WebApp URL in the servers script
 
 # URL
 http://serve-webap-14otlvzk8tkik-191362308.us-east-1.elb.amazonaws.com/udagram/
