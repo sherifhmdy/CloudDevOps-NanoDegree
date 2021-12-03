@@ -1,0 +1,11 @@
+- public url for my github
+    https://github.com/sherifhmdy/cdond-c3-projectstarter.git
+
+- front-end url
+    http://d2dgwy9jw9emla.cloudfront.net/#/employees
+
+- back-end validation url
+    http://ec2-54-152-37-154.compute-1.amazonaws.com:3030/api/status
+
+- Prometheus url  
+    http://ec2-18-205-149-6.compute-1.amazonaws.com
