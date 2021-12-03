@@ -1,4 +1,4 @@
-- public url for my github
+- public url for my github repo
     https://github.com/sherifhmdy/cdond-c3-projectstarter.git
 
 - front-end url
